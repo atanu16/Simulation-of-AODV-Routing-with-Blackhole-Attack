@@ -2,6 +2,9 @@
 # Simulation of AODV Routing with Blackhole Attack 
 
 This project simulates a mobile ad hoc network (MANET) using the Ad-hoc On-demand Distance Vector (AODV) routing protocol and investigates its vulnerability to blackhole attacks. AODV is implemented to establish routes between nodes, while a blackhole node is introduced to intercept and potentially disrupt communication. Through visualization, the simulation demonstrates the impact of the blackhole attack on routing paths, comparing routes with and without the presence of the malicious node. This project serves as an educational tool to understand the behavior of routing protocols in the face of security threats, offering insights into strategies for mitigating such attacks in MANETs.
+<br>
+<br>
+
 ![Simulation ](https://i.ibb.co/MS9Z0V5/image.png)
 
 
